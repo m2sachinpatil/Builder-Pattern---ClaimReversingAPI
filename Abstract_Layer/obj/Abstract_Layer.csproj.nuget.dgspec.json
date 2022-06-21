@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sachinpatil/Documents/Sachin/Assignment/WTW_Example/ClaimReversingAPI/BuilderPattern-ClaimReversingAPI/Abstract_Layer/Abstract_Layer.csproj": {}
+  },
+  "projects": {
+    "/Users/sachinpatil/Documents/Sachin/Assignment/WTW_Example/ClaimReversingAPI/BuilderPattern-ClaimReversingAPI/Abstract_Layer/Abstract_Layer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sachinpatil/Documents/Sachin/Assignment/WTW_Example/ClaimReversingAPI/BuilderPattern-ClaimReversingAPI/Abstract_Layer/Abstract_Layer.csproj",
+        "projectName": "Abstract_Layer",
+        "projectPath": "/Users/sachinpatil/Documents/Sachin/Assignment/WTW_Example/ClaimReversingAPI/BuilderPattern-ClaimReversingAPI/Abstract_Layer/Abstract_Layer.csproj",
+        "packagesPath": "/Users/sachinpatil/.nuget/packages/",
+        "outputPath": "/Users/sachinpatil/Documents/Sachin/Assignment/WTW_Example/ClaimReversingAPI/BuilderPattern-ClaimReversingAPI/Abstract_Layer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sachinpatil/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/sachinpatil/Documents/Sachin/Assignment/WTW_Example/ClaimReversingAPI/BuilderPattern-ClaimReversingAPI/Data_Model/Data_Model.csproj": {
+                "projectPath": "/Users/sachinpatil/Documents/Sachin/Assignment/WTW_Example/ClaimReversingAPI/BuilderPattern-ClaimReversingAPI/Data_Model/Data_Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sachinpatil/Documents/Sachin/Assignment/WTW_Example/ClaimReversingAPI/BuilderPattern-ClaimReversingAPI/Data_Model/Data_Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sachinpatil/Documents/Sachin/Assignment/WTW_Example/ClaimReversingAPI/BuilderPattern-ClaimReversingAPI/Data_Model/Data_Model.csproj",
+        "projectName": "Data_Model",
+        "projectPath": "/Users/sachinpatil/Documents/Sachin/Assignment/WTW_Example/ClaimReversingAPI/BuilderPattern-ClaimReversingAPI/Data_Model/Data_Model.csproj",
+        "packagesPath": "/Users/sachinpatil/.nuget/packages/",
+        "outputPath": "/Users/sachinpatil/Documents/Sachin/Assignment/WTW_Example/ClaimReversingAPI/BuilderPattern-ClaimReversingAPI/Data_Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sachinpatil/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
