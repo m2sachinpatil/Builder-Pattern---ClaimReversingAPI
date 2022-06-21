@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaimReversingAPI", "ClaimReversingAPI\ClaimReversingAPI.csproj", "{7B308FE7-DA2D-49A9-8177-C5809329F607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract_Layer", "Abstract_Layer\Abstract_Layer.csproj", "{923B16F8-CDFB-436A-8619-6D3367FCA695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Model", "Data_Model\Data_Model.csproj", "{555CE030-F797-4EFE-A200-891858402872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claim_Reversing_Test", "Claim_Reversing_Test\Claim_Reversing_Test.csproj", "{FD4A677F-DDE2-4E65-8E44-FCDCACBA333A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B308FE7-DA2D-49A9-8177-C5809329F607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B308FE7-DA2D-49A9-8177-C5809329F607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B308FE7-DA2D-49A9-8177-C5809329F607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B308FE7-DA2D-49A9-8177-C5809329F607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923B16F8-CDFB-436A-8619-6D3367FCA695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923B16F8-CDFB-436A-8619-6D3367FCA695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923B16F8-CDFB-436A-8619-6D3367FCA695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923B16F8-CDFB-436A-8619-6D3367FCA695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{555CE030-F797-4EFE-A200-891858402872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555CE030-F797-4EFE-A200-891858402872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555CE030-F797-4EFE-A200-891858402872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555CE030-F797-4EFE-A200-891858402872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4A677F-DDE2-4E65-8E44-FCDCACBA333A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4A677F-DDE2-4E65-8E44-FCDCACBA333A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4A677F-DDE2-4E65-8E44-FCDCACBA333A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4A677F-DDE2-4E65-8E44-FCDCACBA333A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C84E7C7-64B0-4F61-B15F-9890A90D7E3C}
+	EndGlobalSection
+EndGlobal
